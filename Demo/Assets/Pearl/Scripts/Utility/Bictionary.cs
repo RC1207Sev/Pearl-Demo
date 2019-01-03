@@ -4,7 +4,7 @@ namespace it.amalfi.Pearl
 {
     /// <summary>
     /// A dictionary that can be read either using the first parameter as a key 
-    /// and the socond as a value, either using the second parameter as a key 
+    /// and the second as a value, either using the second parameter as a key 
     /// and the first as a value.
     /// </summary>
     public class Bictionary<T1, T2>
